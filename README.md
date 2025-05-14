@@ -11,3 +11,12 @@
 - ShadcnUI - Radix UI 기반의 재사용 가능한 컴포넌트 시스템
 - Notion API - Notion을 레드리스 CMS로 활용한 콘텐츠 관리 시스템
 - Giscus - Github Discussions 기반의 댓글 시스템
+
+## Stacks
+
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![ShadcnUI](https://img.shields.io/badge/ShadcnUI-%23A855F7.svg?style=for-the-badge&logo=radix-ui&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
