@@ -36,7 +36,7 @@ export default async function DocsPage({ params }: DocsPageProps) {
             <Card>
               <CardHeader>
                 <CardTitle>고급 가이드</CardTitle>
-                <CardDescription>심화 개념과 실전 활용 방법을 다룹니다.</CardDescription>
+                <CardDescription>심화 개념과 실전 활용 방법을 다룹니다. </CardDescription>
               </CardHeader>
             </Card>
           </Link>
